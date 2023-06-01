@@ -8,7 +8,9 @@ class DevopsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(2 + 2, 4, "The sum of 2 and 2 should be 4");
+		String text = null;
+        int length = text.length();
+		// assertEquals(2 + 2, 4, "The sum of 2 and 2 should be 4");
 	}
 
 }
